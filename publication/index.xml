@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jan Wessel</title>
+    <link>https://jan-wessel.github.io/publication/</link>
+      <atom:link href="https://jan-wessel.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jan-wessel.github.io/media/icon_hu8b12a48d0857579d9b3da9c34b1e9f41_2885456_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://jan-wessel.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>I would if I could: Passing through VAT reductions in the german rail industry</title>
+      <link>https://jan-wessel.github.io/publication/db-mwst/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/db-mwst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of the Covid-19 pandemic and government intervention on active mobility</title>
+      <link>https://jan-wessel.github.io/publication/covid/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space Wars - Finding an Economically Efficient Allocation of Street Space Across Different Transport Modes</title>
+      <link>https://jan-wessel.github.io/publication/space-wars/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/space-wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How information on emissions per Euro spent can influence leisure travel decisions</title>
+      <link>https://jan-wessel.github.io/publication/emissions/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/emissions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycling in the dark – the impact of Standard Time and Daylight Saving Time on bicycle ridership</title>
+      <link>https://jan-wessel.github.io/publication/clock-change/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/clock-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some people feel the rain, others just get wet: An analysis of regional differences in the effects of weather on cycling</title>
+      <link>https://jan-wessel.github.io/publication/elasticities/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/elasticities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using weather forecasts to forecast whether bikes are used</title>
+      <link>https://jan-wessel.github.io/publication/forecasts/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/forecasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TEN-T corridors – Stairway to heaven or highway to hell?</title>
+      <link>https://jan-wessel.github.io/publication/tent/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/tent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the transport-mode-specific trade effects of different transport infrastructure types</title>
+      <link>https://jan-wessel.github.io/publication/gravity/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/gravity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

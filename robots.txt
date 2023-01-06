@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jan-wessel.github.io/sitemap.xml
