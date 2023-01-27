@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Riding the Green Wave - How Countdown Timers at Bicycle Traffic Lights Impact on Cycling Behavior</title>
+      <link>https://jan-wessel.github.io/publication/leezenflow/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/leezenflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>I would if I could: Passing through VAT reductions in the german rail industry</title>
       <link>https://jan-wessel.github.io/publication/db-mwst/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -330,7 +338,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-156792483&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-936147285&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -340,7 +348,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-156792483&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-936147285&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
