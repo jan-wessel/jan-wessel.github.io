@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Space Wars - Finding an Economically Efficient Allocation of Street Space Across Different Transport Modes</title>
+      <link>https://jan-wessel.github.io/publication/space-wars/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/space-wars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Riding the Green Wave - How Countdown Timers at Bicycle Traffic Lights Impact on Cycling Behavior</title>
       <link>https://jan-wessel.github.io/publication/leezenflow/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
@@ -53,14 +61,6 @@
       <link>https://jan-wessel.github.io/publication/covid/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://jan-wessel.github.io/publication/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space Wars - Finding an Economically Efficient Allocation of Street Space Across Different Transport Modes</title>
-      <link>https://jan-wessel.github.io/publication/space-wars/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jan-wessel.github.io/publication/space-wars/</guid>
       <description></description>
     </item>
     
@@ -338,7 +338,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-492751863&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892531674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -348,7 +348,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-492751863&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-892531674&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
