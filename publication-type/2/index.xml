@@ -5,7 +5,7 @@
     <link>https://jan-wessel.github.io/publication-type/2/</link>
       <atom:link href="https://jan-wessel.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jan-wessel.github.io/media/icon_hu8b12a48d0857579d9b3da9c34b1e9f41_2885456_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>More afraid of the virus than of bad weather? Exploring the link between weather conditions and cycling volume in German cities before and during the COVID-19 pandemic</title>
+      <link>https://jan-wessel.github.io/publication/covid-weather/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://jan-wessel.github.io/publication/covid-weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Riding the Green Wave - How Countdown Timers at Bicycle Traffic Lights Impact on Cycling Behavior</title>
       <link>https://jan-wessel.github.io/publication/leezenflow/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://jan-wessel.github.io/publication/leezenflow/</guid>
       <description></description>
     </item>
